@@ -1,2 +1,4 @@
 # Luck
-Herramienta basada en busqueda de sitios webs &amp; cuentas (doxing) by xNetting
+Simple Dox Tool by xNetting
+
+# Ya me da paja hacer el readme la verdad
